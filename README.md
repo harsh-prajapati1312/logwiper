@@ -106,12 +106,3 @@ This project is licensed under the MIT [License](https://choosealicense.com/lice
 
 
 
-## 🚀 About Me
-Hello, I'm Harsh Prajapati, a passionate cybersecurity enthusiast and student currently pursuing my MSc in Digital Forensics and Information Security at the National Forensic Sciences University (NFSU), Delhi. With a deep interest in the world of ethical hacking and security, I actively participate in Capture The Flag (CTF) challenges and have earned recognition as a top 1% player on TryHackMe, a leading platform for hands-on cybersecurity training.
-
-In addition to my CTF achievements, I am an experienced bug hunter, constantly looking for vulnerabilities and helping improve security for various platforms. My interests are expanding into the exciting world of blockchain technology, where I am currently learning about its applications and security challenges.
-
-With a solid foundation in digital forensics, information security, and hands-on experience in real-world security challenges, I am always eager to learn, explore, and contribute to the cybersecurity community. I believe in continuous learning and strive to stay ahead of evolving threats and technologies.
-
-Feel free to connect with me, and let’s explore the fascinating world of cybersecurity together
-
